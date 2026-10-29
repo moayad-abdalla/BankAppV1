@@ -1,4 +1,3 @@
-
 #ifndef BANKAPPV1_BANKACCOUNT_H
 #define BANKAPPV1_BANKACCOUNT_H
 #include <string>
