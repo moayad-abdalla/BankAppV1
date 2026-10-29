@@ -1,6 +1,3 @@
-//
-// Created by brmcbrid on 10/15/2026.
-//
 
 #ifndef BANKAPPV1_BANKACCOUNT_H
 #define BANKAPPV1_BANKACCOUNT_H
